@@ -115,6 +115,7 @@
       # parsec-bin
       piper-tts
       plezy
+      postman
       proton-vpn
       python3
       remmina
