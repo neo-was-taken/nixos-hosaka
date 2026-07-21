@@ -66,6 +66,7 @@
       chatbox
       cheese
       chromium
+      dbeaver-bin
       dconf-editor
       # deadbeef-with-plugins
       # deluge-gtk
