@@ -101,6 +101,7 @@
       keepassxc
       libreoffice
       # librewolf
+      lmstudio
       losslesscut-bin
       lutris
       mangohud
