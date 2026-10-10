@@ -28,7 +28,7 @@
       show-weekdate = true;
     };
     "org/gnome/desktop/wm/preferences" = {
-      button-layout = "close,maximize,minimize:appmenu";
+      button-layout = "appmenu:minimize,maximize,close";
       # action-right-click-titlebar = "minimize";
       # action-middle-click-titlebar = "lower";
     };
