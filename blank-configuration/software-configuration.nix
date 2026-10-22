@@ -1,4 +1,4 @@
-{ config, lib, pkgs, ... }:
+{ config, lib, pkgs, pkgsUnstable, ... }:
 
 {
   services = {
@@ -101,7 +101,7 @@
       keepassxc
       libreoffice
       # librewolf
-      lmstudio
+      pkgsUnstable.lmstudio
       losslesscut-bin
       lutris
       mangohud
@@ -112,7 +112,7 @@
       nicotine-plus
       nodejs
       obsidian
-      opencode
+      pkgsUnstable.opencode
       pandoc
       # parsec-bin
       piper-tts
