@@ -14,6 +14,7 @@
     stateVersion = "25.05";
     packages = with pkgs; [
       # btop
+      kubectl
     ];
   };
   programs.bash = {
